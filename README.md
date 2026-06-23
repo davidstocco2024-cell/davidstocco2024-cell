@@ -1,4 +1,4 @@
-# ¡Hola! Soy David 👋
+# ¡Hola! Soy Ignacio David 👋
 
 **Analista de Datos y Desarrollador Python** en formación, enfocado en la automatización inteligente de procesos, optimización de flujos de oficina y diseño de software seguro con Inteligencia Artificial.
 
