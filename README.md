@@ -1,37 +1,37 @@
-# ¡Hola! Soy Ignacio David 👋
+# David Stocco
 
-**Analista de Datos y Desarrollador Python** en formación, enfocado en la automatización inteligente de procesos, optimización de flujos de oficina y diseño de software seguro con Inteligencia Artificial.
+Data Analyst | Python | SQL | Power BI | Tableau | Automation
 
----
+I transform operational and business data into actionable insights using
+Python, SQL and Business Intelligence tools.
 
-### 🚀 Proyecto Destacado Actual
-* **[Gestor Automatizado de Cobranzas v3.0](https://github.com/davidstocco2024-cell/gestor_cobranzas)**: Script modular de producción para estudios contables en Argentina. Integra la API de Gemini 2.0 Flash, criptografía local (Fernet AES-128), lógica defensiva anti-alucinaciones y estricto cumplimiento normativo de la Ley de Protección de Datos Personales (Ley 25.326).
+My focus:
+- Data Analysis & EDA
+- SQL Analytics
+- Business Intelligence
+- Dashboard Development
+- ETL & Data Pipelines
+- Process Automation
+- Customer Analytics
 
----
+## Featured Projects
 
-### 🛠️ Mi Tech Stack
+### Sales Analytics Dashboard
+Python · Streamlit · Pandas · Plotly
 
-#### 💻 Lenguajes & Entornos
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
-</p>
+### E-Commerce Customer Segmentation
+Python · RFM · K-Means · Scikit-learn
 
-#### 🧠 Inteligencia Artificial & Datos
-<p align="left">
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-</p>
+### SQL Sales Analytics
+SQL Server · Star Schema · Business KPIs
 
-#### 🔧 Herramientas de Desarrollo
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+### NYC Airbnb EDA
+Python · Pandas · Seaborn · Statistical Analysis
 
+### Data Warehouse
+SQL Server · ETL · Data Modeling · Analytics
 
----
+## Technical Stack
 
-### 📬 Conectemos
-* 🇦🇷 Basado en Argentina
-* 🎯 Orientado a resolver problemas operativos del mundo real mediante código eficiente y seguro.
+Python | SQL Server | Pandas | NumPy | Tableau | Power BI |
+Excel | Scikit-learn | Streamlit | Git | Docker
