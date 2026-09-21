@@ -1,4 +1,4 @@
-# David Stocco
+# Ignacio David Stocco
 
 **Data Analyst | Process Automation Specialist**  
 *Transforming operational and business data into actionable insights using Python, SQL, and BI tools.*
